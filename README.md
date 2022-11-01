@@ -49,7 +49,7 @@ Millena Gená é estudante de Ciência da Computação na UFU. Atualmente, é In
 ### Igor do Nascimento
 
 <div align="left">
-<img src="" width="300px" />
+<img src="https://i.imgur.com/UEik51Y.png" width="300px" />
 </div>
 
 Igor é graduado em Ciência da Computação. Atua como instrutor de Data Science e Machine Learning no Grupo Alura, tendo como principais interesses na tecnologia: criação de modelos e análise de dados. Nas horas vagas assisto e analiso dados de basquete e adoro ouvir podcasts de humor como Nerdcast e Jujubacast.
@@ -59,7 +59,7 @@ Igor é graduado em Ciência da Computação. Atua como instrutor de Data Scienc
 ### Bruno Raphaell
 
 <div align="left">
-<img src="" width="300px" />
+<img src="https://i.imgur.com/nn5PMcw.jpg" width="300px" />
 </div>
 
 Bruno é estudante de Engenharia Elétrica na Universidade Federal do Piauí (UFPI) e monitor de Data Science, atuando nos fóruns de Data Science, Machine Learning e Deep Learning. Apaixonado por música, programação e trocar conhecimento.
@@ -70,7 +70,7 @@ Bruno é estudante de Engenharia Elétrica na Universidade Federal do Piauí (UF
 ### Rodrigo Dias
 
 <div align="left">
-<img src="" width="300px" />
+<img src="https://i.imgur.com/lvFIkPE.png" width="300px" />
 </div>
 
 Rodrigo é estatístico e especialista em Big Data com forte interesse em geoprocessamento, desenvolvimento web, web scraping, machine learning e Data Science. É instrutor e tech lead da escola de dados da Alura.
