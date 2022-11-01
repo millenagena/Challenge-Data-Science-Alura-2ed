@@ -1,4 +1,4 @@
-# Challenge-Data-Science-Alura-2ed
+# Challenge de Data Science | 2ª edição
 
 <div align="center">
 <img src="https://i.imgur.com/Tnj84r9.jpg" width="800px" />
