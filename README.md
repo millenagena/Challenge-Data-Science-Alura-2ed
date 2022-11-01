@@ -49,7 +49,7 @@ Millena Gená é estudante de Ciência da Computação na UFU. Atualmente, é In
 ### Igor do Nascimento
 
 <div align="left">
-<img src="https://i.imgur.com/UEik51Y.png" width="300px" />
+<img src="https://i.imgur.com/Dib3nWs.png" width="300px" />
 </div>
 
 Igor é graduado em Ciência da Computação. Atua como instrutor de Data Science e Machine Learning no Grupo Alura, tendo como principais interesses na tecnologia: criação de modelos e análise de dados. Nas horas vagas assisto e analiso dados de basquete e adoro ouvir podcasts de humor como Nerdcast e Jujubacast.
