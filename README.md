@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/Tnj84r9.jpg" width="800px" />
 </div>
 
-A imobiliária InsightPlaces, situada na cidade do Rio de Janeiro, está enfrentando dificuldades para alugar e vender imóveis. Em uma pesquisa de como empresas semelhantes operam no mercado, a InsightPlaces percebeu que esse problema pode estar relacionado aos valores dos imóveis e às recomendações que faz. 
+A imobiliária InsightPlaces, situada na cidade do Rio de Janeiro, está enfrentando dificuldades para alugar e vender imóveis. Em uma pesquisa de como empresas semelhantes operam no mercado, a InsightPlaces percebeu que esse problema pode estar relacionado aos valores dos imóveis e às recomendações realizadas em seu site. 
 
 Dentro desse contexto, como podemos definir de forma eficiente os preços dos imóveis lidando com grande volume de dados? É importante recomendar imóveis utilizando outro critério? O que precisa ser feito?
 
@@ -31,6 +31,10 @@ Após esses tratamentos, nós preparamos os dados para conseguirmos utilizá-los
 Feito isso, finalizamos a semana criando modelos de regressão com esses dados utilizando a biblioteca MLlib do PySpark.
 
 ## Semana 3 e 4
+
+Durante as semanas 3 e 4 vamos focar na criação de um recomendador de imóveis.
+
+Para isso, é necessário utilizarmos técnicas que nos ajudem na padronização e redução de dimensionalidade dos nossos dados. Assim, podemos criar nossos clusters e também uma função que seja responsável pela recomendação dos melhores imóveis.
 
 
 ## Equipe de Dados
