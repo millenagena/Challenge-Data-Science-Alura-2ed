@@ -32,9 +32,13 @@ Feito isso, finalizamos a semana criando modelos de regressão com esses dados u
 
 ## Semana 3 e 4
 
-Durante as semanas 3 e 4 vamos focar na criação de um recomendador de imóveis.
+Durante as semanas 3 e 4 vamos focar em melhorar o sistema de recomendação da InsightPlaces.
 
-Para isso, é necessário utilizarmos técnicas que nos ajudem na padronização e redução de dimensionalidade dos nossos dados. Assim, podemos criar nossos clusters e também uma função que seja responsável pela recomendação dos melhores imóveis.
+Nosso sistema não está recebendo os clicks que esperava apenas recomendando imoveis das mesmas regiões e na mesma faixa de preço, por isso como parte do time de Data Science precisamos criar uma nova mecânica de recomendação de imóveis.
+
+O objetivo é criar um sistema de recomendação de imóveis baseado em similaridade de características. A base de dados utilizada será a base de dados tratada na semana 2, após transformar as variáveis categóricas em variáveis binárias e antes de aplicarmos a vetorização.
+
+Para criarmos esse sistema de recomendção, utilizamos técnicas de padronização e redução de dimensionalidade dos nossos dados. Assim, podemos criar nossos clusters e também uma função que seja responsável pela recomendação dos melhores imóveis.
 
 
 ## Equipe de Dados
