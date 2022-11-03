@@ -38,7 +38,7 @@ Nosso sistema não está recebendo os clicks que esperava apenas recomendando im
 
 O objetivo é criar um sistema de recomendação de imóveis baseado em similaridade de características. A base de dados utilizada será a base de dados tratada na semana 2, após transformar as variáveis categóricas em variáveis binárias e antes de aplicarmos a vetorização.
 
-Para criarmos esse sistema de recomendção, utilizamos técnicas de padronização e redução de dimensionalidade dos nossos dados. Assim, podemos criar nossos clusters e também uma função que seja responsável pela recomendação dos melhores imóveis.
+Para criarmos esse sistema de recomendação, utilizamos técnicas de padronização e redução de dimensionalidade dos nossos dados. Assim, podemos criar nossos clusters e também uma função que seja responsável pela recomendação dos melhores imóveis.
 
 
 ## Equipe de Dados
