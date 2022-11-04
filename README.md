@@ -6,11 +6,11 @@
 
 A imobiliária InsightPlaces, situada na cidade do Rio de Janeiro, está enfrentando dificuldades para alugar e vender imóveis. Em uma pesquisa de como empresas semelhantes operam no mercado, a InsightPlaces percebeu que esse problema pode estar relacionado aos valores dos imóveis e às recomendações realizadas em seu site. 
 
-Dentro desse contexto, como podemos definir de forma eficiente os preços dos imóveis lidando com grande volume de dados? É importante recomendar imóveis utilizando outro critério? O que precisa ser feito?
+Dentro desse contexto, como podemos definir de forma eficiente os preços dos imóveis lidando com grandes volumes de dados? É importante recomendar imóveis utilizando outro critério? O que precisa ser feito?
 
 Você faz parte do time de Ciência de Dados e Big Data da InsightPlaces e ficou responsável por auxiliar no processo de análise de dados dos imóveis, que estão localizados em alguns bairros da cidade do Rio de Janeiro.
 
-Esse projeto tem algumas etapas como: ler e fazer o tratamento do histórico dos preços de imóveis no Rio de Janeiro, construir um modelo de regressão para precificar imóveis e por último criar um recomendador de imóveis. Para cada uma dessas etapas, vamos utilizar a ferramenta PySpark que oferece uma melhor performance ao trabalharmos com grandes volumes de dados.
+Esse projeto tem algumas etapas como: ler e fazer o tratamento do histórico dos preços de imóveis no Rio de Janeiro, construir um modelo de regressão para precificar imóveis e, por último, criar um recomendador de imóveis. Para cada uma dessas etapas, vamos utilizar a ferramenta PySpark, que oferece uma melhor performance ao trabalharmos com grandes volumes de dados.
 
 ## Semana 1
 
@@ -24,7 +24,7 @@ No final dessa semana, salvamos os dados transformados no formato parquet para p
 
 A semana 2 é dedicada ao tratamento dos dados e a criação de modelos de regressão para precificação dos imóveis.
 
-Durante essa semana realizamos trabalhos de pessoas cientistas de dados. Dessa forma, começamos importando os dados que foram salvos no final da semana anterior e realizamos a exploração, tratamento e remoção de dados faltantes dessa base de dados.
+Durante essa semana, realizamos trabalhos de pessoas cientistas de dados. Dessa forma, começamos importando os dados que foram salvos no final da semana anterior e realizamos a exploração, o tratamento e a remoção de dados faltantes dessa base de dados.
 
 Após esses tratamentos, nós preparamos os dados para conseguirmos utilizá-los para a criação de modelos de Machine Learning do PySpark. Salvamos esses dados preparados para ML no formato parquet para utilizarmos na semana seguinte.
 
@@ -32,11 +32,11 @@ Feito isso, finalizamos a semana criando modelos de regressão com esses dados u
 
 ## Semana 3 e 4
 
-Durante as semanas 3 e 4 vamos focar em melhorar o sistema de recomendação da InsightPlaces.
+Durante as semanas 3 e 4, vamos focar em melhorar o sistema de recomendação da InsightPlaces.
 
-Nosso sistema não está recebendo os clicks que esperava apenas recomendando imoveis das mesmas regiões e na mesma faixa de preço, por isso como parte do time de Data Science precisamos criar uma nova mecânica de recomendação de imóveis.
+Nosso sistema não está recebendo os clicks que esperava apenas recomendando imóveis das mesmas regiões e na mesma faixa de preço. Por isso, como parte do time de Data Science, precisamos criar uma nova mecânica de recomendação de imóveis.
 
-O objetivo é criar um sistema de recomendação de imóveis baseado em similaridade de características. A base de dados utilizada será a base de dados tratada na semana 2, após transformar as variáveis categóricas em variáveis binárias e antes de aplicarmos a vetorização.
+O objetivo é criar um sistema de recomendação de imóveis baseado em similaridade de características. A base de dados utilizada será a base de dados tratada na semana 2, após transformarmos as variáveis categóricas em variáveis binárias e antes de aplicarmos a vetorização.
 
 Para criarmos esse sistema de recomendação, utilizamos técnicas de padronização e redução de dimensionalidade dos nossos dados. Assim, podemos criar nossos clusters e também uma função que seja responsável pela recomendação dos melhores imóveis.
 
@@ -50,7 +50,7 @@ Para criarmos esse sistema de recomendação, utilizamos técnicas de padroniza�
 <img src="https://i.imgur.com/Rfdn2Yz.jpg" width="300px" />
 </div>
 
-Millena Gená é estudante de Ciência da Computação na UFU. Atualmente, é Instrutora de Dados aqui na Alura atuando principalmente na área de Engenharia de dados. Ela está sempre procurando aprender algo novo sobre tecnologia e é apaixonada por novas aventuras. Programar e ajudar as pessoas são seus hobbies favoritos! 
+Millena Gená é estudante de Ciência da Computação na UFU. Atualmente, é Instrutora de Dados aqui na Alura, atuando principalmente na área de Engenharia de Dados. Ela está sempre procurando aprender algo novo sobre tecnologia e é apaixonada por novas aventuras. Programar e ajudar as pessoas são seus hobbies favoritos! 
 
 <a href="https://www.linkedin.com/in/millenagenapereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
@@ -84,4 +84,3 @@ Bruno é estudante de Engenharia Elétrica na Universidade Federal do Piauí (UF
 Rodrigo é estatístico e especialista em Big Data com forte interesse em geoprocessamento, desenvolvimento web, web scraping, machine learning e Data Science. É instrutor e tech lead da escola de dados da Alura.
 
 <a href=" https://www.linkedin.com/in/rodrigo-fernando-dias-118181120/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
