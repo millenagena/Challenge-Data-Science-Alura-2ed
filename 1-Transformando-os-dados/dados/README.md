@@ -1,3 +1,6 @@
+
+[Base de dados - InsightPlaces](https://caelum-online-public.s3.amazonaws.com/challenge-spark/semana-1.zip)
+
 ### Dicionário de Dados
 
 | Colunas         | Descrição                                                      |
